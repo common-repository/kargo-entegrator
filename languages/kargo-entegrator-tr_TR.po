@@ -1,0 +1,785 @@
+# Copyright (C) 2024 GurmeHub
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Kargo Entegratör {{versiyon}}\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/gurmecargo\n"
+"Last-Translator: \n"
+"Language-Team: Türkçe\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-07-24T13:44:19+00:00\n"
+"PO-Revision-Date: 2024-10-09 13:19+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: kargo-entegrator\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.6.11; wp-6.6.1"
+
+#: languages/gcargo-settings-texts.php:54
+msgid "Actions"
+msgstr "Hareketler"
+
+#: languages/gcargo-settings-texts.php:145
+msgid "Activate Admin Menu"
+msgstr "Admin Menü Gösterimini Aktif Et"
+
+#: includes/gcargo-functions.php:97
+msgid "Activated"
+msgstr "Aktifleştirildi"
+
+#: languages/gcargo-settings-texts.php:16
+msgid "Add"
+msgstr "Ekle"
+
+#: languages/gcargo-settings-texts.php:113
+msgid "Add a warehouse to create a shipment."
+msgstr "Gönderi oluşturmak için bir depo ekleyin."
+
+#: languages/gcargo-settings-texts.php:22
+msgid "Add Address"
+msgstr "Adres Ekle"
+
+#: languages/gcargo-settings-texts.php:112
+msgid "Add cargo integration to create a shipment."
+msgstr "Gönderi oluşturmak için kargo entegrasyonunu ekleyin."
+
+#: languages/gcargo-settings-texts.php:142
+msgid "Add New Shipping Account"
+msgstr "Yeni Kargo Hesabı Ekle"
+
+#: languages/gcargo-settings-texts.php:43
+msgid "Add {0}"
+msgstr "{0} ekle"
+
+#: languages/gcargo-settings-texts.php:20
+msgid "Address"
+msgstr "Adres"
+
+#: hooks/class-gcargo-gph.php:79
+msgid ""
+"After a step, the plugin will be deactivated. Could you please take a moment "
+"and support us to make your app better?"
+msgstr ""
+"Bu adımdan sonra eklenti devre dışı kalacak. Lütfen bir dakikanızı ayırıp "
+"uygulamanızı daha iyi hale getirmemiz için bize destek olur musunuz?"
+
+#: languages/gcargo-settings-texts.php:63
+msgid "All Shipped"
+msgstr "Hepsi Gönderildi"
+
+#: languages/gcargo-settings-texts.php:88
+msgid "Amount"
+msgstr "Miktar"
+
+#: languages/gcargo-settings-texts.php:58
+msgid "Api Key"
+msgstr "API Anahtarı"
+
+#: includes/class-gcargo-api-key.php:38
+msgid "Api key is incorrect, please check and try again."
+msgstr "Api anahtarı hatalı, lütfen kontrol edip tekrar deneyin."
+
+#: languages/gcargo-settings-texts.php:97
+msgid "Api key successfully registered!"
+msgstr "API anahtarı başarıyla kaydedildi!"
+
+#: languages/gcargo-settings-texts.php:96
+#: languages/gcargo-settings-texts.php:121
+msgid "Are you sure you want to cancel the shipment?"
+msgstr "Gönderiyi iptal etmek istediğinizden emin misiniz?"
+
+#: languages/gcargo-settings-texts.php:48
+msgid "Are you sure you want to delete {0}?"
+msgstr "{0} öğesini silmek istediğinizden emin misiniz?"
+
+#: includes/class-gcargo-woocommerce-order-status.php:47
+msgid "At the Distribution Center"
+msgstr "Dağıtım Merkezinde"
+
+#: languages/gcargo-settings-texts.php:117
+msgid "Barcode"
+msgstr "Barkod"
+
+#: languages/gcargo-settings-texts.php:131
+msgid "Barcode Printout"
+msgstr "Barkod Çıktısı"
+
+#: languages/gcargo-settings-texts.php:74
+msgid "Box"
+msgstr "Paket"
+
+#: includes/class-gcargo-admin.php:63
+msgid "Bulk Create"
+msgstr "Toplu Oluşturma"
+
+#: includes/class-gcargo-admin.php:58
+msgid "Bulk Print"
+msgstr "Toplu Yazdır"
+
+#: languages/gcargo-settings-texts.php:23 hooks/class-gcargo-gph.php:74
+msgid "Cancel"
+msgstr "İptal"
+
+#: includes/class-gcargo-woocommerce-order-status.php:51
+msgid "Cargo Delivered"
+msgstr "Kargo Teslim Edildi"
+
+#: includes/class-gcargo-woocommerce-order-status.php:43
+msgid "Cargo Delivery Process"
+msgstr "Kargo Teslimat Sürecinde"
+
+#: languages/gcargo-settings-texts.php:38
+msgid "Cargo Integration"
+msgstr "Kargo Entegrasyonu"
+
+#: languages/gcargo-settings-texts.php:37
+msgid "Cargo Integrations"
+msgstr "Kargo Entegrasyonları"
+
+#: hooks/class-gcargo-woocommerce.php:75
+msgid "Cargo Tracking"
+msgstr "Kargo Takibi"
+
+#: languages/gcargo-settings-texts.php:85
+msgid "Cash Money"
+msgstr "Nakit"
+
+#: languages/gcargo-settings-texts.php:30
+msgid "City"
+msgstr "Şehir"
+
+#: languages/gcargo-settings-texts.php:109
+msgid "Clear"
+msgstr "Temizle"
+
+#: languages/gcargo-settings-texts.php:130
+msgid "Click Here"
+msgstr "Buraya tıklayın"
+
+#: hooks/class-gcargo-gph.php:76
+msgid "Comments (Optional)"
+msgstr "Yorum (Opsiyonel)"
+
+#: languages/gcargo-settings-texts.php:98
+msgid "Company"
+msgstr "Şirket"
+
+#: languages/gcargo-settings-texts.php:56
+msgid "Connect"
+msgstr "Bağla"
+
+#: languages/gcargo-settings-texts.php:91
+msgid "Connected"
+msgstr "Bağlı"
+
+#: languages/gcargo-settings-texts.php:55
+msgid "Connection"
+msgstr "Bağlantı"
+
+#: languages/gcargo-settings-texts.php:81
+msgid "Country"
+msgstr "Ülke"
+
+#: languages/gcargo-settings-texts.php:84
+msgid "Create"
+msgstr "Oluştur"
+
+#: languages/gcargo-settings-texts.php:139
+msgid "Create Bulk Shipment"
+msgstr "Toplu Gönderi Oluştur"
+
+#: languages/gcargo-settings-texts.php:60
+msgid "Create Fast Shipment"
+msgstr "Hızlı Gönderi Oluşturun"
+
+#: languages/gcargo-settings-texts.php:114
+msgid "Create on test env"
+msgstr "Test ortamında oluştur"
+
+#: languages/gcargo-settings-texts.php:61
+msgid "Create Shipment"
+msgstr "Gönderi Oluştur"
+
+#: languages/gcargo-settings-texts.php:99
+msgid "Created At"
+msgstr "Oluşturulma Tarihi"
+
+#: languages/gcargo-settings-texts.php:86
+msgid "Credit Card"
+msgstr "Kredi kartı"
+
+#: languages/gcargo-settings-texts.php:90
+msgid "Currency"
+msgstr "Para birimi"
+
+#: languages/gcargo-settings-texts.php:65
+msgid "Customize Shipment"
+msgstr "Gönderiyi Özelleştir"
+
+#: includes/class-gcargo-admin.php:50
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+#: hooks/class-gcargo-gph.php:73
+msgid "Deactive"
+msgstr "Etkisizleştir"
+
+#: includes/gcargo-functions.php:96
+msgid "Debug Mode"
+msgstr "Hata Ayıklama Modu"
+
+#: languages/gcargo-settings-texts.php:107
+msgid "Default"
+msgstr "Varsayılan"
+
+#: languages/gcargo-settings-texts.php:51
+msgid "Delete"
+msgstr "Sil"
+
+#: includes/class-gcargo-woocommerce-order-status.php:35
+msgid "Delivered to Cargo"
+msgstr "Kargoya Teslim Edildi"
+
+#: languages/gcargo-settings-texts.php:25
+msgid "Description of address"
+msgstr "Adres açıklaması"
+
+#: hooks/class-gcargo-gph.php:53
+msgid "Didn't work as expected"
+msgstr "Beklediğim gibi çalışmadı"
+
+#: includes/gcargo-functions.php:97
+msgid "Disabled"
+msgstr "Engelli"
+
+#: languages/gcargo-settings-texts.php:59
+msgid "Disconnect"
+msgstr "Bağlantıyı kes"
+
+#: languages/gcargo-settings-texts.php:31
+msgid "District"
+msgstr "Semt"
+
+#: languages/gcargo-settings-texts.php:75
+msgid "Document"
+msgstr "Belge"
+
+#: languages/gcargo-settings-texts.php:101
+msgid "Documents"
+msgstr "Belgeler"
+
+#: languages/gcargo-settings-texts.php:137
+msgid "Dont you have an Api key?"
+msgstr "Api anahtarınız yok mu?"
+
+#: includes/class-gcargo-woocommerce-order-status.php:39
+msgid "During the Cargo Transfer Process"
+msgstr "Kargo Transfer Sürecinde"
+
+#: languages/gcargo-settings-texts.php:15
+msgid "Edit"
+msgstr "Düzenle"
+
+#: languages/gcargo-settings-texts.php:29
+msgid "Email"
+msgstr "E-posta"
+
+#: languages/gcargo-settings-texts.php:64
+msgid "Fast shipping you specify It will be created with default settings."
+msgstr "Hızlı gönderi belirlediğiniz varsayılan ayarlar ile oluşturulacaktır."
+
+#: languages/gcargo-settings-texts.php:105
+msgid "Feedback"
+msgstr "Geri bildirim"
+
+#: languages/gcargo-settings-texts.php:104
+msgid "Forum"
+msgstr "Forum"
+
+#: languages/gcargo-settings-texts.php:39
+msgid "General Settings"
+msgstr "Genel Ayarlar"
+
+#: languages/gcargo-settings-texts.php:123
+msgid "Give up"
+msgstr "Pes etmek"
+
+#. Author of the plugin
+msgid "GurmeHub"
+msgstr "GurmeHub"
+
+#: languages/gcargo-settings-texts.php:103
+msgid "Help"
+msgstr "Yardım"
+
+#: languages/gcargo-settings-texts.php:141
+msgid "How do I add a shipping account?"
+msgstr "Yeni Kargo Hesabı Nasıl Eklerim?"
+
+#: languages/gcargo-settings-texts.php:100
+msgid "HTTP Logs"
+msgstr "HTTP Günlükleri"
+
+#. Author URI of the plugin
+msgid "https://gurmehub.com"
+msgstr "https://gurmehub.com"
+
+#. URI of the plugin
+msgid "https://kargoentegrator.com"
+msgstr "https://kargoentegrator.com"
+
+#: hooks/class-gcargo-gph.php:40
+msgid "I am using another shipping plugin"
+msgstr "Başka bir kargo eklentisi kullanıyorum"
+
+#: hooks/class-gcargo-gph.php:36
+msgid ""
+"I couldn't find the cargo company integration I was looking for (Please "
+"share below)"
+msgstr ""
+"Aradığım kargo şirketi entegrasyonunu bulamadım (Lütfen aşağıda paylaşın)"
+
+#. %s is the name of the plugin.
+#: hooks/class-gcargo-gph.php:45
+#, php-format
+msgid "I need more information about %s"
+msgstr "%s hakkında daha fazla bilgiye ihtiyacım var"
+
+#: languages/gcargo-settings-texts.php:108
+msgid "Integration"
+msgstr "Entegrasyon"
+
+#: languages/gcargo-settings-texts.php:41
+msgid "Integration Settings"
+msgstr "Entegrasyon Ayarları"
+
+#: languages/gcargo-settings-texts.php:111
+msgid "Invoice / Waybill Info"
+msgstr "Fatura / İrsaliye Bilgileri"
+
+#: languages/gcargo-settings-texts.php:78
+msgid "Invoice Number"
+msgstr "Fatura numarası"
+
+#: includes/gcargo-functions.php:118
+msgid "IP Address"
+msgstr ""
+
+#: languages/gcargo-settings-texts.php:115
+msgid "Is pay at door?"
+msgstr "Kapıda ödeme mi?"
+
+#: includes/class-gcargo-admin.php:95 includes/class-gcargo-admin.php:96
+msgid "Kargo Ayarları"
+msgstr ""
+
+#. Name of the plugin
+msgid "Kargo Entegratör"
+msgstr "Kargo Entegratör"
+
+#: hooks/class-gcargo-wordpress.php:171
+msgid "Kargo Entegratör -> Gönderi barkodlarını yazdır"
+msgstr ""
+
+#: hooks/class-gcargo-wordpress.php:170
+msgid "Kargo Entegratör -> Gönderi oluştur"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Kolay, Hızlı Entegre Edilebilir WooCommerce Kargo Eklentisi 10’dan fazla "
+"kargo firması ile entegre olun."
+msgstr ""
+
+#: languages/gcargo-settings-texts.php:13
+msgid "Loading..."
+msgstr "Yükleniyor..."
+
+#: includes/gcargo-functions.php:92
+msgid "Multisite"
+msgstr ""
+
+#: languages/gcargo-settings-texts.php:18
+msgid "Name"
+msgstr "İsim"
+
+#: languages/gcargo-settings-texts.php:24
+msgid "Name of address"
+msgstr "Adres adı"
+
+#: includes/gcargo-functions.php:93 includes/gcargo-functions.php:107
+msgid "No"
+msgstr ""
+
+#. %s is the name of the plugin.
+#: hooks/class-gcargo-gph.php:78
+#, php-format
+msgid "No thanks, i don't want the %s"
+msgstr "Hayır teşekkürler, %s istemiyorum"
+
+#: includes/gcargo-functions.php:70 includes/gcargo-functions.php:74
+#: includes/gcargo-functions.php:103
+msgid "Not available"
+msgstr "Müsait değil"
+
+#: languages/gcargo-settings-texts.php:68
+msgid "Not yet formed"
+msgstr "Henüz oluşmadı"
+
+#: languages/gcargo-settings-texts.php:132
+msgid "Okey"
+msgstr "Tamam"
+
+#: languages/gcargo-settings-texts.php:134
+msgid ""
+"On this page, you can set which WooCommerce status your order will go to, "
+"depending on the status of your shipment. Order status updates are made "
+"automatically and your order status is updated according to these settings."
+msgstr ""
+"Bu sayfada, siparişinizin gönderi durumuna bağlı olarak hangi WooCommerce "
+"durumuna geçeceğini ayarlayabilirsiniz. Sipariş durumu güncellemeleri "
+"otomatik olarak yapılır ve sipariş durumunuz bu ayarlara göre güncellenir."
+
+#: languages/gcargo-settings-texts.php:136
+#, fuzzy
+#| msgid "WC Order Status Settings"
+msgid "Order Status Settings"
+msgstr "WC Sipariş Durumu Ayarları"
+
+#: languages/gcargo-settings-texts.php:102
+msgid "Other"
+msgstr "Diğer"
+
+#: hooks/class-gcargo-gph.php:57
+msgid "Other (Please share below)"
+msgstr "Diğer (Lütfen aşağıda paylaşın)"
+
+#: languages/gcargo-settings-texts.php:143
+msgid "Other Settings"
+msgstr "Diğer Ayarlar"
+
+#: languages/gcargo-settings-texts.php:76
+msgid "Package Type"
+msgstr "Paket Tipi"
+
+#: languages/gcargo-settings-texts.php:62
+msgid "Partial Shipped"
+msgstr "Parçalı Gönderim"
+
+#: languages/gcargo-settings-texts.php:92
+msgid "Password"
+msgstr "Şifre"
+
+#: languages/gcargo-settings-texts.php:79
+msgid "Pay At Door"
+msgstr "Kapıda Ödeme"
+
+#: languages/gcargo-settings-texts.php:87
+msgid "Payment Type"
+msgstr "Ödeme türü"
+
+#: languages/gcargo-settings-texts.php:73
+msgid "Payor Type"
+msgstr "Ödeme Türü"
+
+#: languages/gcargo-settings-texts.php:19
+msgid "Person"
+msgstr "Kişi"
+
+#: languages/gcargo-settings-texts.php:26
+msgid "Person name"
+msgstr "Kişi Adı"
+
+#: languages/gcargo-settings-texts.php:27
+msgid "Person surname"
+msgstr "Kişi soyadı"
+
+#: languages/gcargo-settings-texts.php:28
+msgid "Phone"
+msgstr "Telefon"
+
+#: languages/gcargo-settings-texts.php:40
+msgid "Platform Settings"
+msgstr "Platform Ayarları"
+
+#: languages/gcargo-settings-texts.php:66
+msgid "Please enter the API Key before shipping the cargo."
+msgstr "Kargoyu göndermeden önce lütfen API Anahtarını giriniz."
+
+#: languages/gcargo-settings-texts.php:70
+msgid "Please fill or check required fields with correct values"
+msgstr "Lütfen gerekli alanları doğru değerlerle doldurun veya kontrol edin"
+
+#: languages/gcargo-settings-texts.php:94
+msgid "Postcode"
+msgstr "Posta kodu"
+
+#: languages/gcargo-settings-texts.php:89
+msgid "Print"
+msgstr "Yazdır"
+
+#: languages/gcargo-settings-texts.php:110
+msgid "Product Info"
+msgstr "Ürün bilgisi"
+
+#: languages/gcargo-settings-texts.php:67
+msgid "Ready for shipment!"
+msgstr "Gönderim için hazır!"
+
+#: includes/class-gcargo-woocommerce-order-status.php:31
+msgid "Ready to Ship"
+msgstr "Gönderime hazır"
+
+#: languages/gcargo-settings-texts.php:71
+msgid "Receiver"
+msgstr "Alıcı"
+
+#: languages/gcargo-settings-texts.php:128
+msgid "Receiver Address"
+msgstr "Alıcı adresi"
+
+#: languages/gcargo-settings-texts.php:125
+msgid "Receiver Info"
+msgstr "Alıcı Bilgisi"
+
+#: languages/gcargo-settings-texts.php:57
+msgid "Register"
+msgstr "Kayıt ol"
+
+#: languages/gcargo-settings-texts.php:124
+msgid "Save"
+msgstr "Kaydet"
+
+#: languages/gcargo-settings-texts.php:72
+msgid "Sender"
+msgstr "Gönderen"
+
+#: languages/gcargo-settings-texts.php:50
+msgid "Set Default"
+msgstr "Varsayılana ayarla"
+
+#: includes/class-gcargo-admin.php:54 includes/class-gcargo-admin.php:103
+#: languages/gcargo-settings-texts.php:42 hooks/class-gcargo-wordpress.php:208
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: languages/gcargo-settings-texts.php:148
+msgid "Settings saved successfully."
+msgstr "Ayarlar başarıyla kaydedildi."
+
+#: languages/gcargo-settings-texts.php:32
+msgid "Shipment"
+msgstr "Gönderi"
+
+#: languages/gcargo-settings-texts.php:95
+msgid "Shipment cancelled"
+msgstr "Sevkiyat iptal edildi"
+
+#: languages/gcargo-settings-texts.php:69
+msgid "Shipment Created"
+msgstr "Gönderi Oluşturuldu"
+
+#: languages/gcargo-settings-texts.php:127
+msgid "Shipment Details"
+msgstr "Gönderi Detayları"
+
+#: hooks/class-gcargo-woocommerce.php:115
+msgid "Shipment Tracking"
+msgstr "Gönderi Takibi"
+
+#: languages/gcargo-settings-texts.php:138
+msgid "Sign up now!"
+msgstr "Şimdi kayıt ol!"
+
+#: hooks/class-gcargo-gph.php:72
+msgid "Skip & Deactive"
+msgstr "Atla ve Devre Dışı Bırak"
+
+#: languages/gcargo-settings-texts.php:140
+msgid "Status"
+msgstr "Durum"
+
+#: languages/gcargo-settings-texts.php:80
+msgid "Surname"
+msgstr "Soyadı"
+
+#: languages/gcargo-settings-texts.php:82
+msgid "Tax Number"
+msgstr "Vergi numarası"
+
+#: languages/gcargo-settings-texts.php:83
+msgid "Tax Office"
+msgstr "Vergi Dairesi"
+
+#: hooks/class-gcargo-gph.php:49
+msgid "Temporarily deactivating"
+msgstr "Geçici olarak devre dışı bırakıyorum"
+
+#: includes/gcargo-functions.php:80
+msgid "Theme Name"
+msgstr ""
+
+#: includes/gcargo-functions.php:84
+msgid "Theme Version"
+msgstr ""
+
+#: languages/gcargo-settings-texts.php:126
+msgid ""
+"These settings represent the basic settings to be used when creating a "
+"shipment and can be changed during creation."
+msgstr ""
+"Bu ayarlar bir gönderi oluştururken kullanılacak temel ayarları temsil eder "
+"ve oluşturma sırasında değiştirilebilir."
+
+#: languages/gcargo-settings-texts.php:53
+msgid "To use the {0}, you can enter your api key in the relevant field."
+msgstr "{0}'ı kullanmak için ilgili alana API anahtarınızı girebilirsiniz."
+
+#: languages/gcargo-settings-texts.php:116
+msgid "Total"
+msgstr "Toplam"
+
+#: languages/gcargo-settings-texts.php:119
+#: languages/gcargo-settings-texts.php:120
+msgid "Tracking Link"
+msgstr "Takip Bağlantısı"
+
+#: languages/gcargo-settings-texts.php:118
+msgid "Tracking No"
+msgstr "Takip Numarası"
+
+#: languages/gcargo-settings-texts.php:17
+msgid "Update"
+msgstr "Güncelle"
+
+#: languages/gcargo-settings-texts.php:93
+msgid "User Companies"
+msgstr "Kullanıcı Firmalar"
+
+#: languages/gcargo-settings-texts.php:14
+msgid "View help documents about {0}"
+msgstr "{0} ile ilgili yardım belgelerini görüntüleyin"
+
+#: languages/gcargo-settings-texts.php:34
+msgid "Warehouse"
+msgstr "Depo"
+
+#: languages/gcargo-settings-texts.php:106
+msgid "Warehouse Name"
+msgstr "Depo Adı"
+
+#: languages/gcargo-settings-texts.php:33
+msgid "Warehouses"
+msgstr "Depolar"
+
+#: languages/gcargo-settings-texts.php:77
+msgid "Waybill Number"
+msgstr "İrsaliye Numarası"
+
+#: languages/gcargo-settings-texts.php:146
+msgid ""
+"When you enable this setting, the Cargo Integrator will have its own menu "
+"instead of the WooCommerce menu."
+msgstr ""
+"Bu ayarı etkinleştirdiğinizde Kargo Entegratör, WooCommerce menüsü yerine "
+"kendi menüsüne sahip olacaktır."
+
+#: hooks/class-gcargo-gph.php:75
+msgid "Why you are leaving us ?"
+msgstr ""
+"Deaktif etme nedenini öğrenebilir miyiz?\n"
+"\n"
+
+#: languages/gcargo-settings-texts.php:133
+msgid "WooCommerce Order Status Changes"
+msgstr "WooCommerce Sipariş Durumu Değişiklikleri"
+
+#: includes/gcargo-functions.php:88
+msgid "WordPress Version"
+msgstr ""
+
+#: includes/gcargo-functions.php:93 includes/gcargo-functions.php:107
+#: languages/gcargo-settings-texts.php:49
+msgid "Yes"
+msgstr "Evet"
+
+#: languages/gcargo-settings-texts.php:122
+msgid "Yes, cancel"
+msgstr "Evet, iptal"
+
+#: languages/gcargo-settings-texts.php:52
+msgid ""
+"You are viewing your cargo accounts defined in the {0} system. To send, you "
+"must have at least 1 account registered in the system. You can add new "
+"accounts using the Add button."
+msgstr ""
+"{0} sisteminde tanımlı kargo hesaplarınızı görüntülüyorsunuz. Gönderim "
+"yapabilmek için sistemde kayıtlı en az 1 hesabınızın olması gerekmektedir. "
+"Ekle düğmesini kullanarak yeni hesaplar ekleyebilirsiniz."
+
+#: languages/gcargo-settings-texts.php:36
+msgid ""
+"You are viewing your cargo integrations defined in the {0} system. To send, "
+"you must have at least 1 cargo integration registered in the system. You can "
+"add new cargo integration using the Add button."
+msgstr ""
+"{0} sisteminde tanımlı kargo entegrasyonlarınızı görüntülüyorsunuz. Gönderim "
+"yapabilmek için sistemde kayıtlı en az 1 kargo entegrasyonunuzun olması "
+"gerekmektedir. Ekle butonunu kullanarak yeni kargo entegrasyonu "
+"ekleyebilirsiniz."
+
+#: languages/gcargo-settings-texts.php:35
+msgid ""
+"You are viewing your warehouses defined in the {0} system. To send, you must "
+"have at least 1 warehouse registered in the system. You can add new "
+"warehouse using the Add button."
+msgstr ""
+"{0} sisteminde tanımlı depolarınızı görüntülüyorsunuz. Gönderim yapabilmek "
+"için sistemde kayıtlı en az 1 deponuzun olması gerekmektedir. Ekle butonunu "
+"kullanarak yeni depo ekleyebilirsiniz."
+
+#: languages/gcargo-settings-texts.php:129
+msgid ""
+"You can create a special barcode for each product in your order. By default, "
+"all your products will be selected with their shipping barcode. is created, "
+"but you can customize it to send it in parts. you can provide. For detailed "
+"information"
+msgstr ""
+"Siparişinizdeki her ürüne özel barkod oluşturabilirsiniz. Varsayılan olarak "
+"tüm ürünleriniz gönderim barkodlarıyla birlikte seçilecektir. oluşturulur, "
+"ancak onu parçalar halinde gönderecek şekilde özelleştirebilirsiniz. "
+"sağlayabilirsiniz. Detaylı bilgi için"
+
+#: languages/gcargo-settings-texts.php:147
+msgid "You can make settings regarding the Kargo Entegratör on this page."
+msgstr "Kargo Entegratör ile ilgili ayarlarınızı bu sayfadan yapabilirsiniz."
+
+#: languages/gcargo-settings-texts.php:144
+msgid "You can make various settings for the Cargo Integrator on this page."
+msgstr "Bu sayfada Kargo Entegratör için çeşitli ayarları yapabilirsiniz."
+
+#: languages/gcargo-settings-texts.php:135
+msgid "Your API connection has been done."
+msgstr "API bağlantınız sağlandı."
+
+#: languages/gcargo-settings-texts.php:44
+msgid "{0} added!"
+msgstr "{0} eklendi!"
+
+#: languages/gcargo-settings-texts.php:47
+msgid "{0} deleted!"
+msgstr "{0} silindi!"
+
+#: languages/gcargo-settings-texts.php:21
+msgid "{0} not found"
+msgstr "{0} bulunamadı"
+
+#: languages/gcargo-settings-texts.php:45
+msgid "{0} update"
+msgstr "{0} güncelleme"
+
+#: languages/gcargo-settings-texts.php:46
+msgid "{0} updated!"
+msgstr "{0} güncellendi!"

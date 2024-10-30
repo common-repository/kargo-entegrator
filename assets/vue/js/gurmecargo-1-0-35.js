@@ -1,0 +1,1 @@
+import{o as a,c as r,w as t,a as o,u as e}from"../vendor-1-0-35.js";import{_ as c}from"../Page-1-0-35.js";import{i as n}from"../admin-app-1-0-35.js";import"../Loading-1-0-35.js";const _=["src"],i={__name:"App",setup(m){const s=window.gcargo.assets_url;return(p,l)=>(a(),r(c,null,{default:t(()=>[o("img",{src:`${e(s)}/images/dashboard.png`,alt:""},null,8,_)]),_:1}))}};n(i);

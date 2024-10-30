@@ -1,0 +1,3 @@
+.gitlab-ci.yml export-ignore
+.releaserc.js export-ignore
+.ci export-ignore
